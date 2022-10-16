@@ -36,4 +36,4 @@ pip install selenium, pillow and any other packages you need.
 
 ↓
 
-Detailed tutorial: [link](https://space.bilibili.com/99271729)
+Detailed tutorial: [Bilibili link](https://www.bilibili.com/video/BV1km4y1c7mi)
